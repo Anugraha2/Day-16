@@ -1,0 +1,14 @@
+body
+{
+    font-size:xx-large;
+    color:darkblue;
+    
+
+}
+h1
+{
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
